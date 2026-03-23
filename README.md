@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/happilfan/Order-summary-card)
-- [Live Site URL](https://github.com/happilfan/Order-summary-card)
+- [Live Site URL](https://happilfan.github.io/Order-summary-card/)
 
 ## My process
 
